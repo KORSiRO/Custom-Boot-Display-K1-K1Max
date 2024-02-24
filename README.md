@@ -45,7 +45,7 @@ To install a Custom Boot Display, you need :
   <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Images/COMPUTER.gif" width="600"/>
 </p>
 
-- [Télécharger](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Boot_K1_K1Max_Computer.7z)</h1>
+- [Télécharger](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Boot_K1_K1Max_Computer.7z)
 
 <h1 align="center">Jarvis</h1>
 
@@ -53,4 +53,4 @@ To install a Custom Boot Display, you need :
   <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Images/JARVIS.gif" width="600"/>
 </p>
 
-- [Télécharger](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Boot_K1_K1Max_Computer.7z)
+- [Télécharger](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Boot_K1_K1Max_JARVIS.7z)
