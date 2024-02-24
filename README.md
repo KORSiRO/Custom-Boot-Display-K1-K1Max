@@ -19,13 +19,13 @@ To install a Custom Boot Display, you need :
 ![MobaXterm_hNXuj0Vg1A](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/assets/62854582/612ac34c-b571-4028-8eef-b338240138cb)
 
 
-4. Save `part0` and `boot-display.conf` which are the original Boot Display files on your computer and then delete them from MobaXterm
+4. Save `part0` folder and `boot-display.conf` which are the original Boot Display files on your computer and then delete them from MobaXterm
  
 
 ![MobaXterm_DP9V2MxO2I](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/assets/62854582/ebac90f4-2911-4045-84f8-aeb2f8a0cd91)
 
 
-5. Replace them with the `part0` and `boot-display.conf` folder contained in the archive
+5. Replace them with the `part0` folder and `boot-display.conf` contained in the archive
 
    
 6. Restart your K1 with the `reboot` command in the MobaXterm console
