@@ -13,3 +13,9 @@ Afin de pousser encore un peu la customisation de nos machines, j'ai voulu crée
 ![](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/GIF/BLACK%20IRON%20MAN.gif?raw=true)
 
 - [Télécharger](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Boot_K1_K1Max_Black_IronMan.7z)
+
+# Computer
+
+![](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/GIF/computer.gif)
+
+- [Télécharger](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Boot_K1_K1Max_Computer.7z)
