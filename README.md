@@ -13,7 +13,7 @@ To install a Custom Boot Display, you need :
  
 2. [Connect via SSH with MobaXterm](https://github.com/Guilouz/Creality-K1-and-K1-Max/wiki/SSH-Connection)
  
-3. Go to the `root` of the `partition` and go to `etc/boot-display`
+3. Go to the `root partition` and go to `etc/boot-display`
 
 
 ![MobaXterm_hNXuj0Vg1A](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/assets/62854582/612ac34c-b571-4028-8eef-b338240138cb)
