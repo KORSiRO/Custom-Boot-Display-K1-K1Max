@@ -31,26 +31,48 @@ To install a Custom Boot Display, you need :
 6. Restart your K1 with the `reboot` command in MobaXterm console
 
 
-<h1 align="center">Black IronMan</h1>
+<h1 align="center">MCU</h1>
 
 <p align="center">
-  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Images/BLACK%20IRON%20MAN.gif?raw=true" width="600"/>
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Images/black%20ironman.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Images/marvelintro.gif" width="400"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Images/jarvis.gif" width="300"/>
 </p>
 
-- [Télécharger](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Boot_K1_K1Max_Black_IronMan.7z)
+- [Télécharger Black Ironman](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Boot_K1_K1Max_Black_IronMan.7z)    
+- [Télécharger Marvel Intro](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Boot_K1_K1Max_Marvel_Intro.7z)
+- [Télécharger Jarvis](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Boot_K1_K1Max_JARVIS.7z)
 
-<h1 align="center">Computer</h1>
+
+<h1 align="center">Call of Duty</h1>
 
 <p align="center">
-  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Images/COMPUTER.gif" width="600"/>
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203/Images/BO3.gif" width="300"/>
 </p>
 
-- [Télécharger](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Boot_K1_K1Max_Computer.7z)
+- [Télécharger BO3](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203/Boot_K1_K1Max_BO3.7z)
 
-<h1 align="center">Jarvis</h1>
+<h1 align="center">Dark Souls</h1>
 
 <p align="center">
-  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Images/JARVIS.gif" width="600"/>
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Dark%20Souls%203/Images/DS3.gif" width="300"/>
 </p>
 
-- [Télécharger](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Boot_K1_K1Max_JARVIS.7z)
+- [Télécharger Dark Souls 3](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Dark%20Souls%203/Boot_K1_K1Max_DS3.7z)
+
+<h1 align="center">Game Console</h1>
+
+<p align="center">
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS1/Images/ps1.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS2/Images/ps2.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS3/Images/ps3.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS5/Images/ps5.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/Xbox%20Serie%20X/Images/xboxX.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/Xbox360/Images/xbox360.gif" width="300"/>  
+</p>
+
+- [Télécharger PS1](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS1/Boot_K1_K1Max_PS1.7z)
+- [Télécharger PS2](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS2/Boot_K1_K1Max_PS2.7z)
+- [Télécharger PS3](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS3/Boot_K1_K1Max_PS3.7z)
+- [Télécharger PS5](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS5/Boot_K1_K1Max_PS5.7z)
+- [Télécharger XBOX X](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/Xbox%20Serie%20X/Boot_K1_K1Max_Xbox_X.7z)
+- [Télécharger XBOX 360](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/Xbox360/Boot_K1_K1Max_Xbox360.7z)
+  
+
+
+
+
+
