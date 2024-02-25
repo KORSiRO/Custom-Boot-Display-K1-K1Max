@@ -73,8 +73,10 @@ To install a Custom Boot Display, you need :
 
 
 <h5 align="center">Do you like my work ?
-Don't hesitate to support me by buying me a coffee ☕🙂 </h5>
+Don't hesitate to support me by buying me a coffee ☕🙂</h5>  
 
+
+  
 <p align="center">
 <a href='https://ko-fi.com/korsiro' target='_blank'><img height='45' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </p>
