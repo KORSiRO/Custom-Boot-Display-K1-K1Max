@@ -34,13 +34,21 @@ To install a Custom Boot Display, you need :
 <h1 align="center">MCU</h1>
 
 <p align="center">
-  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Images/black%20ironman.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Images/marvelintro.gif" width="400"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Images/jarvis.gif" width="300"/>
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Images/black%20ironman.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Images/marvelintro.gif" width="400"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Images/jarvis.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Project/Images/mproject.gif" width="300"/>
 </p>
 
 - [Télécharger Black Ironman](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Boot_K1_K1Max_Black_IronMan.7z)    
 - [Télécharger Marvel Intro](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Boot_K1_K1Max_Marvel_Intro.7z)
 - [Télécharger Jarvis](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Boot_K1_K1Max_JARVIS.7z)
+- [Télécharger Marvel Project](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Project/Marvel%20Project.7z)
 
+<h1 align="center">DC Comics</h1>
+
+<p align="center">
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Batman%20Vengeance/Images/BatmanV.gif" width="300"/>
+</p>  
+
+- [Télécharger Batman Vengeance](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Batman%20Vengeance/Batman%20Vengeance.7z)    
 
 <h1 align="center">Call of Duty</h1>
 
