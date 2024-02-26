@@ -39,7 +39,7 @@ To install a Custom Boot Display, you need :
 [Download Black Ironman](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Boot_K1_K1Max_Black_IronMan.7z) - 
 [Download Marvel Intro](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Boot_K1_K1Max_Marvel_Intro.7z) - 
 [Download Jarvis](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Boot_K1_K1Max_JARVIS.7z) - 
-[Download Marvel Project](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Project/Marvel%20Project.7z) 
+[Download Marvel Project](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Project/Marvel%20Project.7z) - 
 [Download Spiderman](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Spiderman/Spiderman.7z)</div>
 
 <h1 align="center">DC Comics</h1>
