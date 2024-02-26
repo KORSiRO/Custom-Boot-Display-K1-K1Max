@@ -34,13 +34,14 @@ To install a Custom Boot Display, you need :
 <h1 align="center">MCU</h1>
 
 <div align="center">
-  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Images/black%20ironman.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Images/marvelintro.gif" width="420"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Images/jarvis.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Project/Images/mproject.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Spiderman/Images/spiderman.gif" width="300"/>
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Images/black%20ironman.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Images/marvelintro.gif" width="420"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Images/jarvis.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Project/Images/mproject.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Spiderman/Images/spiderman.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Full%20Marvel/Images/fullmarvel.gif" width="300"/>
   
 [Download Black Ironman](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Boot_K1_K1Max_Black_IronMan.7z) - 
 [Download Marvel Intro](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Boot_K1_K1Max_Marvel_Intro.7z) - 
 [Download Jarvis](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Boot_K1_K1Max_JARVIS.7z) - 
 [Download Marvel Project](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Project/Marvel%20Project.7z) - 
-[Download Spiderman](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Spiderman/Spiderman.7z)</div>
+[Download Spiderman](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Spiderman/Spiderman.7z) - 
+[Download Spiderman](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Full%20Marvel/Full%20Marvel.7z)</div>
 
 <h1 align="center">DC Comics</h1>
 
