@@ -34,7 +34,7 @@ To install a Custom Boot Display, you need :
 <h1 align="center">MCU</h1>
 
 <div align="center">
-  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Images/black%20ironman.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Images/marvelintro.gif" width="400"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Images/jarvis.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Project/Images/mproject.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Spiderman/Images/spiderman.gif" width="300"/>
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Images/black%20ironman.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Images/marvelintro.gif" width="420"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Images/jarvis.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Project/Images/mproject.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Spiderman/Images/spiderman.gif" width="300"/>
   
 [Download Black Ironman](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Boot_K1_K1Max_Black_IronMan.7z) - 
 [Download Marvel Intro](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Boot_K1_K1Max_Marvel_Intro.7z) - 
