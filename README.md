@@ -34,7 +34,9 @@ To install a Custom Boot Display, you need :
 <h1 align="center">MCU</h1>
 
 <div align="center">
-  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Images/black%20ironman.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Images/marvelintro.gif" width="420"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Images/jarvis.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Project/Images/mproject.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Spiderman/Images/spiderman.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Full%20Marvel/Images/fullmarvel.gif" width="300"/>
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Images/black%20ironman.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Images/marvelintro.gif" width="420"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Images/jarvis.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Project/Images/mproject.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Spiderman/Images/spiderman.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Full%20Marvel/Images/fullmarvel.gif" width="300"/>  
+
+<br />
   
 [Download Black Ironman](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Boot_K1_K1Max_Black_IronMan.7z) - 
 [Download Marvel Intro](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Boot_K1_K1Max_Marvel_Intro.7z) - 
@@ -48,12 +50,16 @@ To install a Custom Boot Display, you need :
 <div align="center">
   <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Batman%20Vengeance/Images/BatmanV.gif" width="300"/>
 
+<br />
+
 [Download Batman Vengeance](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Batman%20Vengeance/Batman%20Vengeance.7z)</div>    
 
 <h1 align="center">Call of Duty</h1>
 
 <div align="center">
   <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203/Images/BO3.gif" width="300"/>
+
+<br />
 
   [Download BO3](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203/Boot_K1_K1Max_BO3.7z)</div>
 
@@ -62,6 +68,7 @@ To install a Custom Boot Display, you need :
 <div align="center">
   <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Dark%20Souls%203/Images/DS3.gif" width="300"/>
 
+<br />
 
 [Download Dark Souls 3](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Dark%20Souls%203/Boot_K1_K1Max_DS3.7z)</div>
 
@@ -69,6 +76,8 @@ To install a Custom Boot Display, you need :
 
 <div align="center">
   <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS1/Images/ps1.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS2/Images/ps2.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS3/Images/ps3.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS5/Images/ps5.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/Xbox%20Serie%20X/Images/xboxX.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/Xbox360/Images/xbox360.gif" width="300"/>  
+
+<br />
 
 [Download PS1](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS1/Boot_K1_K1Max_PS1.7z) - 
 [Download PS2](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS2/Boot_K1_K1Max_PS2.7z) - 
