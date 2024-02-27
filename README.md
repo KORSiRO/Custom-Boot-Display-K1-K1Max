@@ -35,7 +35,7 @@ To install a Custom Boot Display, you need :
 
 <div align="center">
   <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Images/black%20ironman.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Images/marvelintro.gif" width="420"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Images/jarvis.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Project/Images/mproject.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Spiderman/Images/spiderman.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Full%20Marvel/Images/fullmarvel.gif" width="300"/>  
-
+  
 <br />
   
 [Download Black Ironman](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Boot_K1_K1Max_Black_IronMan.7z) - 
@@ -89,8 +89,8 @@ To install a Custom Boot Display, you need :
 <br />
 
 <div align="center">
-| Do you like my work ?
-Don't hesitate to support me by buying me a coffee ☕🙂  |</div>
+Do you like my work ?
+Don't hesitate to support me by buying me a coffee ☕🙂 </div>
 
 <p align="center">
 <a href='https://ko-fi.com/korsiro' target='_blank'><img height='45' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
