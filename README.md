@@ -75,8 +75,9 @@ To install a Custom Boot Display, you need :
 [Download PS3](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS3/Boot_K1_K1Max_PS3.7z) - 
 [Download PS5](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS5/Boot_K1_K1Max_PS5.7z) - 
 [Download XBOX X](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/Xbox%20Serie%20X/Boot_K1_K1Max_Xbox_X.7z) - 
-[Download XBOX 360](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/Xbox360/Boot_K1_K1Max_Xbox360.7z)</div>
+[Download XBOX 360](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/Xbox360/Boot_K1_K1Max_Xbox360.7z)</div>  
 
+<br />
 
 <div align="center">
 | Do you like my work ?
