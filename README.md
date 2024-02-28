@@ -5,10 +5,14 @@
 
 <p align="center">  
   <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/assets/62854582/836c060a-c1dc-4177-8466-80110f1e4da8" width="800"/>  
-</p>
+</p>  
 
-To install a Custom Boot Display, you need : 
+  <br />
 
+> :warning: **Warning:** If you want to install a custom boot display, your printer must be rooted !
+
+  <br />  
+  
 1. [Enable root Acces](https://github.com/Guilouz/Creality-K1-and-K1-Max/wiki/Install-&-Update-Rooted-Firmware#enable-root-access)
  
 2. [Connect via SSH with MobaXterm](https://github.com/Guilouz/Creality-K1-and-K1-Max/wiki/SSH-Connection)
