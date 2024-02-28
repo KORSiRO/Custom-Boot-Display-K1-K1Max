@@ -1,7 +1,8 @@
 
 <h1 align="center">Custom Boot Display K1 & K1 Max</h1>
 
-<h3 align="center">Do you want customize your K1 series ? Add a Custom Boot Display !</h1>
+<h3 align="center">Do you want customize your K1 series ?  
+Add a Custom Boot Display !</h1>
 
 <p align="center">  
   <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/assets/62854582/836c060a-c1dc-4177-8466-80110f1e4da8" width="800"/>  
