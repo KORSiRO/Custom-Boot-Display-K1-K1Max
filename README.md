@@ -10,9 +10,9 @@
 
   <br />
 
-> :warning: **Warning:** If you want to install a custom boot display, your printer must be rooted !
+> [!WARNING]
+> If you want to install a custom boot display, your printer must be rooted !
   <br />
-
 1. [Enable root Acces](https://github.com/Guilouz/Creality-K1-and-K1-Max/wiki/Install-&-Update-Rooted-Firmware#enable-root-access)
  
 2. [Connect via SSH with MobaXterm](https://github.com/Guilouz/Creality-K1-and-K1-Max/wiki/SSH-Connection)
