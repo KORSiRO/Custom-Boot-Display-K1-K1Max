@@ -1,5 +1,5 @@
 
-<h1 align="center">Custom Boot Display K1 & K1 Max</h1>
+<h1 align="center">Custom Boot Display for K1 & K1 Max</h1>
 
 <h3 align="center">Do you want customize your K1 series ?</h1>  
 <h3 align="center">Add a Custom Boot Display !</h1>
