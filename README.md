@@ -39,7 +39,7 @@
 <h1 align="center">MCU</h1>
 
 <div align="center">
-  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Images/black%20ironman.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Images/marvelintro.gif" width="420"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Images/jarvis.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Project/Images/mproject.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Spiderman/Images/spiderman.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Full%20Marvel/Images/fullmarvel.gif" width="300"/>  
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Ironman/Images/black%20ironman.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Intro/Images/marvelintro.gif" width="420"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Images/jarvis.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Project/Images/mproject.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Spiderman/Images/spiderman.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Full%20Marvel/Images/fullmarvel.gif" width="300"/><img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Venom%20Let%20There%20Be%20Carnage/Images/venomcarnage.gif" width="300"/>  
   
 <br />
   
@@ -48,7 +48,8 @@
 [Download Jarvis](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Jarvis/Boot_K1_K1Max_JARVIS.7z) - 
 [Download Marvel Project](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Marvel%20Project/Marvel%20Project.7z) - 
 [Download Spiderman](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Spiderman/Spiderman.7z) - 
-[Download Full Marvel](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Full%20Marvel/Full%20Marvel.7z)</div>
+[Download Full Marvel](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Full%20Marvel/Full%20Marvel.7z)
+[Download Venom Let There Be Carnage](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Venom%20Let%20There%20Be%20Carnage/Venom%20Let%20There%20Be%20Carnage.7z)</div>
 
 <h1 align="center">DC Comics</h1>
 
