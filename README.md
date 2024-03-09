@@ -54,11 +54,12 @@
 <h1 align="center">DC Comics</h1>
 
 <div align="center">
-  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Batman%20Vengeance/Images/BatmanV.gif" width="300"/>
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Batman%20Vengeance/Images/BatmanV.gif" width="300"/> <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Flash/Images/flash.gif" width="300"/>
 
 <br />
 
-[Download Batman Vengeance](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Batman%20Vengeance/Batman%20Vengeance.7z)</div>    
+[Download Batman Vengeance](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Batman%20Vengeance/Batman%20Vengeance.7z)    
+[Download Flash](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Flash/Flash.7z)</div>  
 
 <h1 align="center">Call of Duty</h1>
 
