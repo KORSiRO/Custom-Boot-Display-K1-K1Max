@@ -12,6 +12,7 @@
 
 > [!WARNING]
 > If you want to install a custom boot display, your printer must be rooted !
+> GuppyScreen should not be installed if it is, uninstall it with the [Guilouz script](https://guilouz.github.io/Creality-K1-Series/helper-script/guppy-screen/) 
   <br />
   
 1. [Enable root Acces](https://github.com/Guilouz/Creality-K1-and-K1-Max/wiki/Install-&-Update-Rooted-Firmware#enable-root-access)
