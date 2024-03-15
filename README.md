@@ -65,10 +65,13 @@
 <h1 align="center">Call of Duty</h1>
 
 <div align="center">
-  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203/Images/BO3.gif" width="300"/>
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203/Images/BO3.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%201%20Intro/Images/bo1.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%202%20Intro/Images/bo2.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203%20Intro/Images/bo3.gif" width="300"/>
 
 <br />
-
+ 
+  [Download Black Ops 1 Intro](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%201%20Intro/Black%20Ops%201%20Intro.7z) - 
+  [Download Black Ops 2 Intro](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%202%20Intro/Black%20Ops%202%20Intro.7z) - 
+  [Download Black Ops 3 Intro](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203%20Intro/Black%20Ops%203%20Intro.7z) - 
   [Download BO3](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203/Boot_K1_K1Max_BO3.7z)</div>
 
 <h1 align="center">Dark Souls</h1>
