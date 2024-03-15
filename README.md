@@ -83,7 +83,7 @@
 
 [Download Dark Souls 3](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Dark%20Souls%203/Boot_K1_K1Max_DS3.7z)</div>
 
-<h1 align="center">Game Console</h1>
+<h1 align="center">Starting Game Console</h1>
 
 <div align="center">
   <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS1/Images/ps1.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS2/Images/ps2.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS3/Images/ps3.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS5/Images/ps5.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/Xbox%20Serie%20X/Images/xboxX.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/Xbox360/Images/xbox360.gif" width="300"/>  
