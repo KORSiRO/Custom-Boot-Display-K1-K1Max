@@ -65,7 +65,7 @@
 <h1 align="center">Call of Duty</h1>
 
 <div align="center">
-  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203/Images/BO3.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%201%20Intro/Images/bo1.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%202%20Intro/Images/bo2.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203%20Intro/Images/bo3.gif" width="300"/>
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%201%20Intro/Images/bo1.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%202%20Intro/Images/bo2.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203%20Intro/Images/bo3.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203/Images/BO3.gif" width="300"/>  
 
 <br />
  
