@@ -77,7 +77,7 @@
 <h1 align="center">Ninja Turtles</h1>
 
 <div align="center">
-  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Ninja%20Turtles/Images/NinjaTurtles.gif" width="300"/>
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Ninja%20Turtles/Images/NinjaTurtles.gif" width="400"/>
 
 <br />
 
