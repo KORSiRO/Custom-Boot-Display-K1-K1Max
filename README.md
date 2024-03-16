@@ -37,6 +37,50 @@
 6. Restart your K1 with the `reboot` command in MobaXterm console
 
 
+<h1 align="center">Call of Duty</h1>
+
+<div align="center">
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%201%20Intro/Images/bo1.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%202%20Intro/Images/bo2.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203%20Intro/Images/bo3.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203/Images/BO3.gif" width="300"/>  
+
+<br />
+ 
+  [Download Black Ops 1 Intro](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%201%20Intro/Black%20Ops%201%20Intro.7z) - 
+  [Download Black Ops 2 Intro](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%202%20Intro/Black%20Ops%202%20Intro.7z) - 
+  [Download Black Ops 3 Intro](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203%20Intro/Black%20Ops%203%20Intro.7z) - 
+  [Download BO3](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203/Boot_K1_K1Max_BO3.7z)</div>  
+
+
+ <h1 align="center">Dark Souls</h1>
+
+<div align="center">
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Dark%20Souls%203/Images/DS3.gif" width="300"/>
+
+<br />
+
+[Download Dark Souls 3](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Dark%20Souls%203/Boot_K1_K1Max_DS3.7z)</div> 
+
+
+<h1 align="center">DC Comics</h1>
+
+<div align="center">
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Batman%20Vengeance/Images/BatmanV.gif" width="300"/> <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Flash/Images/flash.gif" width="300"/>
+
+<br />
+
+[Download Batman Vengeance](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Batman%20Vengeance/Batman%20Vengeance.7z)    
+[Download Flash](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Flash/Flash.7z)</div>  
+
+
+<h1 align="center">Dragon Ball Z</h1>
+
+<div align="center">
+  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Dragon%20Ball%20Z/Goku_Sheron/Images/GokuSheron.gif" width="300"/>
+
+<br />
+
+[Download Goku_Sheron](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Dragon%20Ball%20Z/Goku_Sheron/Goku_Sheron.7z)</div>  
+
+
 <h1 align="center">MCU</h1>
 
 <div align="center">
@@ -52,27 +96,8 @@
 [Download Full Marvel](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Full%20Marvel/Full%20Marvel.7z) - 
 [Download Venom Let There Be Carnage](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/MCU/Venom%20Let%20There%20Be%20Carnage/Venom%20Let%20There%20Be%20Carnage.7z)</div>
 
-<h1 align="center">DC Comics</h1>
 
-<div align="center">
-  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Batman%20Vengeance/Images/BatmanV.gif" width="300"/> <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Flash/Images/flash.gif" width="300"/>
 
-<br />
-
-[Download Batman Vengeance](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Batman%20Vengeance/Batman%20Vengeance.7z)    
-[Download Flash](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Flash/Flash.7z)</div>  
-
-<h1 align="center">Call of Duty</h1>
-
-<div align="center">
-  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%201%20Intro/Images/bo1.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%202%20Intro/Images/bo2.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203%20Intro/Images/bo3.gif" width="300"/>  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203/Images/BO3.gif" width="300"/>  
-
-<br />
- 
-  [Download Black Ops 1 Intro](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%201%20Intro/Black%20Ops%201%20Intro.7z) - 
-  [Download Black Ops 2 Intro](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%202%20Intro/Black%20Ops%202%20Intro.7z) - 
-  [Download Black Ops 3 Intro](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203%20Intro/Black%20Ops%203%20Intro.7z) - 
-  [Download BO3](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Call%20of%20Duty/Black%20Ops%203/Boot_K1_K1Max_BO3.7z)</div>  
 
 <h1 align="center">Ninja Turtles</h1>
 
@@ -83,14 +108,7 @@
 
 [Download Ninja Turtles](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Ninja%20Turtles/Ninja%20Turtles.7z)</div>
 
-<h1 align="center">Dark Souls</h1>
 
-<div align="center">
-  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Dark%20Souls%203/Images/DS3.gif" width="300"/>
-
-<br />
-
-[Download Dark Souls 3](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Dark%20Souls%203/Boot_K1_K1Max_DS3.7z)</div>
 
 <h1 align="center">Starting Game Console</h1>
 
