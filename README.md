@@ -67,7 +67,7 @@
 
 <br />
 
-[Download Batman Vengeance](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Batman%20Vengeance/Batman%20Vengeance.7z)    
+[Download Batman Vengeance](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Batman%20Vengeance/Batman%20Vengeance.7z) -  
 [Download Flash](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/DC%20Comics/Flash/Flash.7z)</div>  
 
 
